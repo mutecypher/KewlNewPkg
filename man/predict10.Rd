@@ -8,9 +8,9 @@ takes code from \code{KewlNewPkg}}
 predict10(X, b)
 }
 \arguments{
-\item{X}{an x by 10 matrix}
+\item{X}{an x by 10 matrix in the window}
 
-\item{b}{a small dog with a waggy tail}
+\item{b}{a small dog with a waggy tail that no one wants}
 }
 \value{
 a numberic vector with love

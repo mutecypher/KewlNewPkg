@@ -32,8 +32,8 @@ KewlNewPkg <- function(x,y) {
 #'
 #' Takes coefficients and has love for them
 #'
-#' @param X an x by 10 matrix
-#' @param b a small dog with a waggy tail
+#' @param X an x by 10 matrix in the window
+#' @param b a small dog with a waggy tail that no one wants
 #' @return a numberic vector with love
 #' @export
 #'
